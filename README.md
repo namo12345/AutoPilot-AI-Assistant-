@@ -1,3 +1,27 @@
+
+
+
+
+
+
+
+![deepseek_mermaid_20250708_b3f039](https://github.com/user-attachments/assets/96b51c4a-223f-4349-a99e-9c987cad0bfe)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 🤖 AutoPilot-AI-Assistant
 
 **AutoPilot-AI-Assistant** is a powerful, AI-powered voice and text-based Telegram bot that automates everyday tasks like:
